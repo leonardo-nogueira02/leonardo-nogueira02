@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b2545,100:1e6fd9&height=190&section=header&text=Leonardo%20Nogueira&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hardware%20%C2%B7%20Realidade%20Virtual%20%C2%B7%20Web%20%C2%B7%20Ciberseguran%C3%A7a&descAlignY=60&descSize=16" width="100%" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/As2gvfAPSrwAAAAC/pixel-art-gaming-pc.gif" width="100%" />
+</p>
+
+<h1 align="center">Leonardo Nogueira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4FA3FF&center=true&vCenter=true&width=560&lines=Ligo+sensores+a+jogos.;Ligo+calculadoras+a+IA.;Ligo+ecr%C3%A3s+pequenos+ao+PC.;E+agora+estou+a+construir+uma+luva+VR." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=4FA3FF&center=true&vCenter=true&width=560&lines=Ligo+sensores+a+jogos.;Ligo+ecr%C3%A3s+pequenos+ao+PC.;E+agora+estou+a+construir+uma+luva+VR." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,8 +46,43 @@ Passo o tempo entre um **ESP32** em cima da mesa, um projeto aberto no **Unreal 
 | <img src="https://api.iconify.design/lucide/hand.svg?color=%234FA3FF" height="22" /> | **[Luva VR](https://github.com/leonardo-nogueira02/)** | Lê o movimento dos dedos e controla jogos em realidade virtual | ESP32 · C++ · Unreal |
 | <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%234FA3FF" height="22" /> | **[CamVr](https://github.com/leonardo-nogueira02/)** | Jogo VR para Meta Quest, pensado para funcionar com a luva | Unreal Engine |
 | <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%234FA3FF" height="22" /> | **[PCDeck](https://github.com/leonardo-nogueira02/)** | Ecrã touch de 4" que mostra a música a tocar, atalhos e o estado do PC | ESP32 · C++ |
-| <img src="https://api.iconify.design/lucide/package.svg?color=%234FA3FF" height="22" /> | **[StockFlow](https://github.com/leonardo-nogueira02/)** | Sistema web de gestão de stocks e armazém | PHP · MySQL · JS |
-| <img src="https://api.iconify.design/lucide/calculator.svg?color=%234FA3FF" height="22" /> | **[Calculadora + IA](https://github.com/leonardo-nogueira02/)** | Liga uma Casio fx-CG20 à internet e a uma IA através de um ESP32 | ESP32 · C++ |
+
+<br/>
+
+<h3><img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%234FA3FF" height="20" />&nbsp; Competências</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/circuit-board.svg?color=%234FA3FF" height="18" />&nbsp; <b>Eletrónica e robótica</b><br/>
+      <sub>Microcontroladores, sensores, montagem de circuitos e comunicação entre dispositivos</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/globe.svg?color=%234FA3FF" height="18" />&nbsp; <b>Desenvolvimento web</b><br/>
+      <sub>Sites e sistemas web, front-end e back-end com base de dados</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/network.svg?color=%234FA3FF" height="18" />&nbsp; <b>Redes</b><br/>
+      <sub>Configuração de redes, endereçamento IP, routers e switches</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/glasses.svg?color=%234FA3FF" height="18" />&nbsp; <b>Realidade virtual</b><br/>
+      <sub>Desenvolvimento de jogos VR em Unreal Engine para Meta Quest</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/server.svg?color=%234FA3FF" height="18" />&nbsp; <b>Servidores e sistemas</b><br/>
+      <sub>Montagem e manutenção de PCs, Linux e alojamento de servidores</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://api.iconify.design/lucide/users.svg?color=%234FA3FF" height="18" />&nbsp; <b>Trabalho em equipa</b><br/>
+      <sub>Experiência a trabalhar sob pressão, com foco em qualidade e prazos</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -68,7 +107,7 @@ Passo o tempo entre um **ESP32** em cima da mesa, um projeto aberto no **Unreal 
 **Outros**<br/>
 <img src="https://img.shields.io/badge/Git-0b2545?style=flat-square&logo=git&logoColor=4FA3FF" />
 <img src="https://img.shields.io/badge/Linux-0b2545?style=flat-square&logo=linux&logoColor=4FA3FF" />
-<img src="https://img.shields.io/badge/Redes-0b2545?style=flat-square&logo=cisco&logoColor=4FA3FF" />
+<img src="https://img.shields.io/badge/Cisco-0b2545?style=flat-square&logo=cisco&logoColor=4FA3FF" />
 
 <br/>
 
